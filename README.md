@@ -34,4 +34,4 @@ There are more features that I want to add up in the future to expand the projec
 
 ## Author
 
-This code was written from Jesianna Losi (loshi.jesiana@gmail.com)
+This code was written from Tzesiana Losi (loshi.jesiana@gmail.com)
